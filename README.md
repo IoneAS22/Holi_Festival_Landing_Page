@@ -6,10 +6,13 @@ This project was done using: <br>
   * Pseudo-class and Pseudo-elements<br>
   * Media Queries<br>
   * Display Flex<br>
+
 [X] - HTML<br>
+
 [X] - Javascript
   * DOM Manipulation<br>
   * EventListener<br>
   * classList<br>
+
 [X] GSAP
   * Amination on the Navbar and the Hero Section<br>
