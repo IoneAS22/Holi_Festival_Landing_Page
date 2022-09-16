@@ -5,7 +5,7 @@ This project was done using: <br>
 [X] - CSS<br>
   * Pseudo-class and Pseudo-elements<br>
   * Media Queries<br>
-  * Display Flex
+  * Display Flex<br>
 [X] - HTML<br>
 [X] - Javascript
   * DOM Manipulation<br>
