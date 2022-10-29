@@ -17,7 +17,7 @@ This project was done using: <br>
 [X] GSAP
   * Amination on the Navbar and the Hero Section<br>
 
-You can check this project at:
+You can check this project working at: https://ionealves.github.io/Holi_Festival_Landing_Page/
 
 Desktop Version:
 
