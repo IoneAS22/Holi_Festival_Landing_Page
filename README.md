@@ -15,7 +15,7 @@ This project was done using: <br>
   * classList<br>
 
 [X] GSAP
-  * Amination on the Navbar and the Hero Section<br>
+  * Animation on the Navbar and the Hero Section<br>
 
 You can check this project working at: https://ionealves.github.io/Holi_Festival_Landing_Page/
 
